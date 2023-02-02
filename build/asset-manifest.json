@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9663043.css",
+    "main.js": "/static/js/main.a18675fe.js",
+    "static/media/3.png": "/static/media/3.f9376711b5e8fe883c05.png",
+    "static/media/1.jpg": "/static/media/1.aa377780e4f1698cd6e5.jpg",
+    "static/media/Shubham's Resume (2).pdf": "/static/media/Shubham's Resume (2).fd614b5c48f6d04065c1.pdf",
+    "static/media/5578703.png": "/static/media/5578703.c090d4ff601c67d47301.png",
+    "index.html": "/index.html",
+    "main.e9663043.css.map": "/static/css/main.e9663043.css.map",
+    "main.a18675fe.js.map": "/static/js/main.a18675fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9663043.css",
+    "static/js/main.a18675fe.js"
+  ]
+}
